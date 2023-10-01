@@ -1,0 +1,122 @@
+export const rowData = [
+    {
+        id: 1,
+        issuerName: "Issuer A",
+        dealName: "Deal X",
+        bloombergId: "BLMB123",
+        total: "1000.00",
+        industry: "Tech",
+        status: "Active",
+        analysts: "Jane",
+        docCount: 5,
+        customDealIdentifiers: "ID123"
+    },
+    {
+        id: 2,
+        issuerName: "Issuer B",
+        dealName: "Deal Y",
+        bloombergId: "BLMB124",
+        total: "2000.00",
+        industry: "Finance",
+        status: "Pending",
+        analysts: "Jack",
+        docCount: 8,
+        customDealIdentifiers: "ID789"
+    },
+    {
+        id: 3,
+        issuerName: "Issuer C",
+        dealName: "Deal Z",
+        bloombergId: "BLMB125",
+        total: "1500.00",
+        industry: "Health",
+        status: "Inactive",
+        analysts: "Nina",
+        docCount: 4,
+        customDealIdentifiers: "ID113"
+    },
+    {
+        id: 4,
+        issuerName: "Issuer D",
+        dealName: "Deal A1",
+        bloombergId: "BLMB126",
+        total: "2300.00",
+        industry: "Automotive",
+        status: "Active",
+        analysts: "Mia",
+        docCount: 9,
+        customDealIdentifiers: "ID202"
+    },
+    {
+        id: 5,
+        issuerName: "Issuer E",
+        dealName: "Deal B2",
+        bloombergId: "BLMB127",
+        total: "3100.00",
+        industry: "Energy",
+        status: "Completed",
+        analysts: "Liam",
+        docCount: 7,
+        customDealIdentifiers: "ID203"
+    },
+    {
+        id: 6,
+        issuerName: "Issuer F",
+        dealName: "Deal C3",
+        bloombergId: "BLMB128",
+        total: "1200.00",
+        industry: "Entertainment",
+        status: "Inactive",
+        analysts: "Lucas",
+        docCount: 10,
+        customDealIdentifiers: "ID206"
+    },
+    {
+        id: 7,
+        issuerName: "Issuer G",
+        dealName: "Deal D4",
+        bloombergId: "BLMB129",
+        total: "4400.00",
+        industry: "Real Estate",
+        status: "Pending",
+        analysts: "Isabella",
+        docCount: 6,
+        customDealIdentifiers: "ID208"
+    },
+    {
+        id: 8,
+        issuerName: "Issuer H",
+        dealName: "Deal E5",
+        bloombergId: "BLMB130",
+        total: "3600.00",
+        industry: "Food",
+        status: "Active",
+        analysts: "Aiden",
+        docCount: 4,
+        customDealIdentifiers: "ID210"
+    },
+    {
+        id: 9,
+        issuerName: "Issuer I",
+        dealName: "Deal F6",
+        bloombergId: "BLMB131",
+        total: "2700.00",
+        industry: "E-Commerce",
+        status: "Completed",
+        analysts: "Elijah",
+        docCount: 8,
+        customDealIdentifiers: "ID212"
+    },
+    {
+        id: 10,
+        issuerName: "Issuer J",
+        dealName: "Deal G7",
+        bloombergId: "BLMB132",
+        total: "2900.00",
+        industry: "Logistics",
+        status: "Pending",
+        analysts: "Benjamin",
+        docCount: 7,
+        customDealIdentifiers: "ID214"
+    }
+];

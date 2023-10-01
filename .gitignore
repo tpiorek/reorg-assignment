@@ -1,0 +1,65 @@
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.npm/
+.pnpm/
+.yarn-cache/
+.yarn-integrity/
+.yarn-metadata.json
+.yarn/
+.env.local
+.env.*.local
+.cache/
+.pnp.*
+*.pnp.js
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing
+/cypress/videos/
+/cypress/screenshots/
+coverage/
+
+# Vue.js
+*.vue.env
+
+# Sass cache
+.sass-cache/
+
+# Misc
+*.local
+*.bak
+*.swp
+*.acorn
+*.log
+*.pid
+*.seed
+*.pid.lock
