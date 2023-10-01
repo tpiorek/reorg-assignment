@@ -137,7 +137,6 @@ function sortBy(column) {
 .side-pane {
   flex-shrink: 0;
   width: 30%;
-  /* or any desired width */
   background: white;
   border-left: 1px solid #ccc;
   padding: 20px;
